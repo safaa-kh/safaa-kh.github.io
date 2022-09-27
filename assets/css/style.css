@@ -557,7 +557,7 @@ main { overflow-x: hidden; }
  * #ABOUT
 \*-----------------------------------*/
 
-.about { padding-block: 30px; }
+.about { padding-block: var(--section-padding); }
 
 .about-banner {
   max-width: 400px;
